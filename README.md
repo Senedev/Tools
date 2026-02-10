@@ -21,7 +21,7 @@ O repositório é organizado por ecossistemas para facilitar a portabilidade e m
 
 Siga os passos abaixo para configurar seu ambiente macOS clonando o repositório e executando a instalação controlada:
 
-### 1. Clonar o repositório
+1. Clonar o repositório
 Abra o Terminal, escolha um local de sua preferência e clone o projeto:
 ```bash
 git clone [https://github.com/Senedev/Tools.git](https://github.com/Senedev/Tools.git)
