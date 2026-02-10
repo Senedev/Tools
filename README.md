@@ -13,7 +13,7 @@ O repositório é organizado por ecossistemas para facilitar a portabilidade e m
 * **[macos/](./macos)**: Automação de setup, gerenciamento de pacotes e customização do ambiente Apple.
 * **[windows/](./windows)**: Scripts de provisionamento e listas de software para ambientes Windows.
 * **[linux/](./linux)**: Configurações de shell e scripts de instalação para distribuições Linux.
-* **[vscode/](./vscode)**: Padronização do editor de código e gerenciamento de extensões.
+* **[outros/](./outros)**: Diversos outros scripts, configurações em arquivos JSON etc.
 
 ---
 
@@ -27,8 +27,8 @@ Abra o Terminal, escolha um local de sua preferência e clone o projeto:
 git clone [https://github.com/Senedev/Tools.git](https://github.com/Senedev/Tools.git)
 cd Tools/macos
 
-2. Executar o script e aguardar a instalação
-brew bundle --file=Brewfile
+Executar o script e aguardar a instalação
+brew bundle --file=Brewfile -v
 
-3. Realizar a limpeza dos arquivos temporários
+Realizar a limpeza dos arquivos temporários
 brew autoremove && brew cleanup --prune=all

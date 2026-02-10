@@ -1,0 +1,51 @@
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# BREWFILE v1 (Microsoft Base) - Pós Setup Mac
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# Autor:   Guilherme Henrique de Sene Oliveira
+# Contato: guihenriquesene@gmail.com
+# Update:  10 Fevereiro 2026
+
+# --- Aplicativos (Casks) ---
+cask "firefox"
+cask "thunderbird"
+cask "microsoft-edge"
+cask "dropbox"
+cask "visual-studio-code"
+cask "sublime-text"
+cask "tableplus"
+cask "postman"
+cask "jetbrains-toolbox"
+cask "mamp"
+cask "temurin"
+cask "iterm2"
+cask "github"
+cask "alfred"
+cask "drawio"
+cask "chatgpt"
+cask "bitwarden"
+cask "vlc"
+cask "keyboardcleantool"
+cask "appcleaner"
+cask "the-unarchiver"
+
+# --- Ferramentas de Linha de Comando (Fórmulas) ---
+brew "git"
+brew "wget"
+brew "python@3.14"
+brew "dotnet"
+brew "postgresql@18"
+brew "htop"
+
+# --- Fontes para Programação (Typography) ---
+cask "font-jetbrains-mono"
+cask "font-ubuntu-mono"
+cask "font-open-sans"
+cask "font-inconsolata"
+cask "font-fira-code"
+cask "font-source-code-pro"
+cask "font-iosevka"
+cask "font-comic-mono"
+cask "font-victor-mono"
+cask "font-cascadia-code"
+cask "font-hack"

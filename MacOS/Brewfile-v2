@@ -1,6 +1,6 @@
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# BREWFILE - Pós Setup Mac
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# BREWFILE v2 (Google Base) - Pós Setup Mac
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # Autor:   Guilherme Henrique de Sene Oliveira
 # Contato: guihenriquesene@gmail.com
@@ -9,8 +9,8 @@
 # --- Aplicativos (Casks) ---
 cask "firefox"
 cask "thunderbird"
-cask "microsoft-edge"
-cask "dropbox"
+cask "google-chrome"
+cask "google-drive"
 cask "visual-studio-code"
 cask "sublime-text"
 cask "tableplus"
