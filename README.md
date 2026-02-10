@@ -28,9 +28,7 @@ git clone [https://github.com/Senedev/Tools.git](https://github.com/Senedev/Tool
 cd Tools/macos
 
 ### 2. Executar o script e aguardar a instalação
-```bash
 brew bundle --file=Brewfile
 
 ### 3. Realizar a limpeza dos arquivos temporários
-```bash
 brew autoremove && brew cleanup --prune=all
