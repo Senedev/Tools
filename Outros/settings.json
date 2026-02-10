@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "'JetBrains Mono', 'Courier New', 'Monaco', monospace",
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "explorer.compactFolders": false,
+    "editor.fontLigatures": true,
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.quickSuggestionsDelay": 0,
+    "editor.fontSize": 16
+}
