@@ -6,9 +6,6 @@
 # Contato: guihenriquesene@gmail.com
 # Update:  10 Fevereiro 2026
 
-# Repositórios extras (Taps)
-tap "homebrew/services"
-
 # --- Aplicativos (Casks) ---
 cask "firefox"
 cask "thunderbird"
